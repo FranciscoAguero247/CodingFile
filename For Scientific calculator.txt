@@ -1,0 +1,2 @@
+A seperate C++ file will be for Pythegorean thoery, log function, square roots, etc 
+also some more complex calculation like derivites and integrations

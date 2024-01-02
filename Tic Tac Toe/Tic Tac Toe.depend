@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696126362 source:/media/francisco/easystore/Coding portofolio/C++ codes/Calculator/Tic Tac Toe/main.cpp
+	<iostream>
+	<cstdlib>
+

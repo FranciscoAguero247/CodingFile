@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696988081 source:/media/francisco/easystore/Coding portofolio/C++ codes/Calculator/Hangman/main.cpp
+	<iostream>
+	<fstream>
+

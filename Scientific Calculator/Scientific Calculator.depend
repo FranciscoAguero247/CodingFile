@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690246658 source:/media/francisco/easystore/Coding portofolio/C++ codes/Calculator/Scientific Calculator/main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,20 @@
+Howdy y'all!
+
+Here we have a program that lets you do simple calculations like adding or subtracting.
+The basic opearations used on our day-to-day basis. The calculator also includes scientific 
+calculations such as:
+exponents 
+log
+natural log (ln)
+trig functions
+memory
+
+The calculator also includes the pythogoream theory and SOH-CAH-TOA. 
+
+
+For developers pass this point.
+
+The program is written in C++. It contains four functions defined prior to the main function. The main function calls the four defined functions which are: addition(), subtraction(), multiplication(), and division().
+The addition() function/method takes in the user's input, adds the given numbers weather they're integer or double, and returns the value.
+The subtraction() method does the same as previuos method expect it sudtracts the values, and same goes for the multiplication() and division(). The modulus (%) will be used to return a single digit number. 
+If there's room for improvement,  tweaks to make it run better, or make look better for the end user let me know.
